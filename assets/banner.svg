@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 240" width="1280" height="240" role="img" aria-label="África Méndez Perera, Product Owner Junior, Psychology and Full Stack Development, Santander X Galicia winner">
+  <rect width="1280" height="240" fill="#6B2D5E"/>
+  <rect x="0" y="232" width="1280" height="8" fill="#4A1F41"/>
+
+  <g fill="#FFFFFF">
+    <rect x="980" y="56" width="22" height="22" opacity="0.14"/>
+    <rect x="1016" y="56" width="22" height="22" opacity="0.30"/>
+    <rect x="1052" y="56" width="22" height="22" opacity="0.14"/>
+    <rect x="1088" y="56" width="22" height="22" opacity="0.52"/>
+    <rect x="1124" y="56" width="22" height="22" opacity="0.14"/>
+    <rect x="1160" y="56" width="22" height="22" opacity="0.22"/>
+
+    <rect x="980" y="92" width="22" height="22" opacity="0.30"/>
+    <rect x="1016" y="92" width="22" height="22" opacity="0.52"/>
+    <rect x="1052" y="92" width="22" height="22" opacity="0.78"/>
+    <rect x="1088" y="92" width="22" height="22" opacity="0.30"/>
+    <rect x="1124" y="92" width="22" height="22" opacity="0.14"/>
+    <rect x="1160" y="92" width="22" height="22" opacity="0.14"/>
+
+    <rect x="980" y="128" width="22" height="22" opacity="0.14"/>
+    <rect x="1016" y="128" width="22" height="22" opacity="0.22"/>
+    <rect x="1052" y="128" width="22" height="22" opacity="0.52"/>
+    <rect x="1088" y="128" width="22" height="22" opacity="0.78"/>
+    <rect x="1124" y="128" width="22" height="22" opacity="0.30"/>
+    <rect x="1160" y="128" width="22" height="22" opacity="0.14"/>
+
+    <rect x="980" y="164" width="22" height="22" opacity="0.14"/>
+    <rect x="1016" y="164" width="22" height="22" opacity="0.14"/>
+    <rect x="1052" y="164" width="22" height="22" opacity="0.22"/>
+    <rect x="1088" y="164" width="22" height="22" opacity="0.30"/>
+    <rect x="1124" y="164" width="22" height="22" opacity="0.52"/>
+    <rect x="1160" y="164" width="22" height="22" opacity="0.22"/>
+  </g>
+
+  <text x="64" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="1" fill="#FFFFFF">ÁFRICA MÉNDEZ PERERA</text>
+  <text x="64" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#EBD9E5">Product Owner Junior | Psychology + Full Stack Development</text>
+  <text x="64" y="188" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#C79FB8">Santander X Galicia winner</text>
+</svg>
