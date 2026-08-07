@@ -39,8 +39,8 @@ I define the vision and the roadmap, and prioritise the backlog by business valu
 | --- | --- |
 | **Product** | Scrum, backlog prioritisation, user stories and acceptance criteria, sprint planning and refinement, discovery, UX research, MVP definition, Jira |
 | **Research & data** | Structured interviews, measurement design, psychometrics, multivariate analysis (Python, SPSS), SQL, PostgreSQL, MongoDB |
-| **Architecture & APIs** | REST, API-first, DDD, hexagonal architecture, MVC, MVVM |
-| **Development & tools** | Java (Spring Boot, Hibernate, JUnit), C# (.NET), PHP (Laravel), TypeScript (Angular), React, Python, HTML5, SCSS, Git, Docker, Postman, Linux |
+| **Architecture & APIs** | REST, API-first, hexagonal architecture, DDD, JWT authentication, MVC, MVVM |
+| **Development & tools** | TypeScript (Node.js, Express, Angular), Java (Spring Boot, Hibernate, JUnit), C# (.NET), PHP (Laravel), React, Python, Prisma, Zod, Vitest, Git, Docker, Postman, Linux |
 
 ## 🎓 Education & certifications
 
