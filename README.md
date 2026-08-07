@@ -27,7 +27,7 @@ I own the backlog for a development team working in Scrum. I turn stakeholder ne
 
 ### Founder & Product Owner at Corata ([corata.es](https://corata.es))
 
-Corata is a talent assessment product that builds a professional profile from observed behaviour instead of a static CV. Candidates work through real scenarios, and the profile reflects how they prioritise, structure a decision and adapt under pressure.
+Corata is both the brand and the product, a talent infrastructure made of several digital services running on one psychological mapping engine. It does not score or rank people. It reads psychosocial signals and turns them into information a company can act on, and the profile belongs to the person rather than to an employer.
 
 I define the vision and the roadmap, and prioritise the backlog by business value. Discovery so far has been built on interviews with decision makers at five organisations (staffing agencies, SMEs, startups and education centres). I built the MVP as a full stack developer, with a REST API and an API-first approach. Development is now handled by a technical partner so that my focus stays on product and business, covering market and competitor analysis, the pitch, and relationships across the startup ecosystem.
 
