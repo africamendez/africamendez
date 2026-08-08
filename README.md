@@ -21,7 +21,7 @@ My background is in Psychology and in multiplatform application development. The
 
 ## 💼 What I'm working on
 
-### Product Owner Junior & Dev at Worldpats (A Coruña)
+### Product Owner Junior & Dev at Worldpats (A Coruña, remote)
 
 I own the backlog for a development team working in Scrum. I turn stakeholder needs into user stories with acceptance criteria and decide the order in which the team builds them, through backlog refinement, sprint planning and tracking in Jira. I also develop and integrate end-to-end features, with the documentation and testing that go with them.
 
@@ -56,4 +56,4 @@ I define the vision and the roadmap, and prioritise the backlog by business valu
 
 Corata and my work at Worldpats live in private repositories. The public code here includes [cala-studio-landing](https://github.com/AfricaMendezDAM/cala-studio-landing), a client site for a Pilates studio built with React, Vite and Supabase, containerised with Docker and deployed on Vercel.
 
-<p align="center">Based in Galicia. Open to Product Owner roles, on site or remote.</p>
+<p align="center">Based in Galicia and currently working remotely. Open to Product Owner roles, remote or on site.</p>
