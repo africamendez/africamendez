@@ -54,6 +54,6 @@ I define the vision and the roadmap, and prioritise the backlog by business valu
 
 ## 📂 Repositories
 
-Corata and my work at Worldpats live in private repositories. The public code here includes [cala-studio-landing](https://github.com/AfricaMendezDAM/cala-studio-landing), a client site for a Pilates studio built with React, Vite and Supabase, containerised with Docker and deployed on Vercel.
+Corata and my work at Worldpats live in private repositories. The public code here includes [cala-studio-landing](https://github.com/africamendez/cala-studio-landing), a client site for a Pilates studio built with React, Vite and Supabase, containerised with Docker and deployed on Vercel.
 
 <p align="center">Based in Galicia and currently working remotely. Open to Product Owner roles, remote or on site.</p>
