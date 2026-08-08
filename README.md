@@ -50,7 +50,7 @@ I define the vision and the roadmap, and prioritise the backlog by business valu
 | **Multiplatform Application Development (DAM)** | Dual vocational training, IES Muralla Romana (Lugo) |
 | **Professional Scrum Product Owner (PSPO I)** | Scrum.org, in progress |
 | **Final degree project** | *Operacionalización digital de constructos psicológicos en contextos organizacionales*. Multivariate analysis in Python and SPSS over a competency model of my own, and the origin of Corata. |
-| **Languages** | Spanish (native), Galician (intermediate), English (B2 certified), French (conversational), German (basic) |
+| **Languages** | Spanish (native), Galician (intermediate), English (fluent, C1), French (conversational), German (basic) |
 
 ## 📂 Repositories
 
